@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UNREAL COSAS/StefaniaSorbera-PrimerParcial/PrimerParcial/Content/BP_Personaje.uasset",
+				"D:/UNREAL COSAS/StefaniaSorbera-PrimerParcial/PrimerParcial/Content/BP_Enemigos.uasset",
+				"D:/UNREAL COSAS/StefaniaSorbera-PrimerParcial/PrimerParcial/Content/BP_Enemigo.uasset",
+				"D:/UNREAL COSAS/StefaniaSorbera-PrimerParcial/PrimerParcial/Content/BP_Bala.uasset",
+				"D:/UNREAL COSAS/StefaniaSorbera-PrimerParcial/PrimerParcial/Content/Parcial.umap"
+			]
+		}
+	]
+}
